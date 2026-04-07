@@ -32,4 +32,4 @@ The Ripple counter counts backwards (down count) from 7 to 0, so the first state
 
 ### 3 - What width of ripple counter would you use to get to an output of ~1KHz?
 
-This question depends on the input clock frequency. If we start with a 100 MHz frequency, we would need about 10 flip flips
+This question depends on the input clock frequency. If we start with a 1 MHz frequency, we would need about 10 flip flips
